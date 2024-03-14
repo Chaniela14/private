@@ -126,7 +126,7 @@ import keras
 import cv2
 import matplotlib.pyplot as plt
 
-pip install termcolor
+# pip install termcolor
 
 from termcolor import colored
 
